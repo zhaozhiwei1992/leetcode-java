@@ -60,7 +60,7 @@ class Reverse_7 {
      * 执行耗时:1 ms,击败了100.00% 的Java用户
      * 内存消耗:35.2 MB,击败了97.70% 的Java用户
      */
-    private int reverse(int x) {
+    public int reverse(int x) {
 
 //        边界返回0
         if (x == 0) {
